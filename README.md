@@ -1,3 +1,4 @@
+![Gambar 1](screenshot/Screenshot%202026-10-10%20183054.png)
 1. Eksperimen Properti dan Nilai CSS
 Eksperimen dengan CSS dapat dilakukan dengan memodifikasi atau menambahkan berbagai properti dasar berdasarkan panduan Cheat Sheet CSS.
 
